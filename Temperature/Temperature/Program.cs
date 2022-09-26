@@ -10,11 +10,11 @@ namespace Temperature
     {
         static void Main(string[] args)
         {
-            int celsius = 1;
+            
 
-            Console.WriteLine("Enter the celsius", 1);
-            Console.WriteLine("Temperature in celsius is :" + celsius);
-            float farenheit =((celsius * 9) / 5) + 32;
+            Console.WriteLine("Enter the celsius");
+            double celsius = Convert.ToDouble(Console.ReadLine());
+            double farenheit =((celsius * 9) / 5) + 32;
             Console.WriteLine("Temperature in Farenheit is:" + farenheit);
             Console.ReadKey();
 
