@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Equalornot\Equalornot\obj\Debug\Equalornot.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Equalornot\Equalornot\obj\Debug\Equalornot.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Equalornot\Equalornot\bin\Debug\Equalornot.exe.config
+C:\Users\ismaila\source\repos\Equalornot\Equalornot\bin\Debug\Equalornot.exe
+C:\Users\ismaila\source\repos\Equalornot\Equalornot\bin\Debug\Equalornot.pdb
+C:\Users\ismaila\source\repos\Equalornot\Equalornot\obj\Debug\Equalornot.exe
+C:\Users\ismaila\source\repos\Equalornot\Equalornot\obj\Debug\Equalornot.pdb

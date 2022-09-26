@@ -1,0 +1,6 @@
+C:\Users\ismaila\source\repos\PositiveOrNot\PositiveOrNot\bin\Debug\PositiveOrNot.exe.config
+C:\Users\ismaila\source\repos\PositiveOrNot\PositiveOrNot\bin\Debug\PositiveOrNot.exe
+C:\Users\ismaila\source\repos\PositiveOrNot\PositiveOrNot\bin\Debug\PositiveOrNot.pdb
+C:\Users\ismaila\source\repos\PositiveOrNot\PositiveOrNot\obj\Debug\PositiveOrNot.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\PositiveOrNot\PositiveOrNot\obj\Debug\PositiveOrNot.exe
+C:\Users\ismaila\source\repos\PositiveOrNot\PositiveOrNot\obj\Debug\PositiveOrNot.pdb
