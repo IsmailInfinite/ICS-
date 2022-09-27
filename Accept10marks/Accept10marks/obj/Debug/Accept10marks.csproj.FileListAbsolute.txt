@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Accept10marks\Accept10marks\bin\Debug\Accept10marks.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Accept10marks\Accept10marks\bin\Debug\Accept10marks.exe
+C:\Users\ismaila\source\repos\Dontnet training\Accept10marks\Accept10marks\bin\Debug\Accept10marks.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Accept10marks\Accept10marks\obj\Debug\Accept10marks.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Accept10marks\Accept10marks\obj\Debug\Accept10marks.exe
+C:\Users\ismaila\source\repos\Dontnet training\Accept10marks\Accept10marks\obj\Debug\Accept10marks.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Accept10marks\Accept10marks\obj\Debug\Accept10marks.csproj.AssemblyReference.cache

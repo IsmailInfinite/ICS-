@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Users\ismaila\source\repos\Dontnet training\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Reverse\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Users\ismaila\source\repos\Dontnet training\Reverse\Reverse\obj\Debug\Reverse.pdb

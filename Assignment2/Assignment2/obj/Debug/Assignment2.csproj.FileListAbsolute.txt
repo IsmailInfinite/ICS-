@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
