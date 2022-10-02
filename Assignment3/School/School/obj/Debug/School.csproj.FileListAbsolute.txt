@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\School\School\bin\Debug\School.exe.config
+C:\Users\ismaila\source\repos\School\School\bin\Debug\School.exe
+C:\Users\ismaila\source\repos\School\School\bin\Debug\School.pdb
+C:\Users\ismaila\source\repos\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\School\School\obj\Debug\School.exe
+C:\Users\ismaila\source\repos\School\School\obj\Debug\School.pdb
