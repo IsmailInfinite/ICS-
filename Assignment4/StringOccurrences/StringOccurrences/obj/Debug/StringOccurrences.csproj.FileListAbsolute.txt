@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\StringOccurrences\StringOccurrences\obj\Debug\StringOccurrences.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\StringOccurrences\StringOccurrences\obj\Debug\StringOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\StringOccurrences\StringOccurrences\bin\Debug\StringOccurrences.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\StringOccurrences\StringOccurrences\bin\Debug\StringOccurrences.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\StringOccurrences\StringOccurrences\bin\Debug\StringOccurrences.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\StringOccurrences\StringOccurrences\obj\Debug\StringOccurrences.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\StringOccurrences\StringOccurrences\obj\Debug\StringOccurrences.pdb

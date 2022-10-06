@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\Doctor\Doctor\bin\Debug\Doctor.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\Doctor\Doctor\bin\Debug\Doctor.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\Doctor\Doctor\bin\Debug\Doctor.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\Doctor\Doctor\obj\Debug\Doctor.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\Doctor\Doctor\obj\Debug\Doctor.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\Doctor\Doctor\obj\Debug\Doctor.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment4\Doctor\Doctor\obj\Debug\Doctor.pdb
