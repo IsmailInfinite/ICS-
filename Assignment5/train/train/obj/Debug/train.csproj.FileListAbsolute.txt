@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\train\train\bin\Debug\train.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\train\train\bin\Debug\train.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\train\train\bin\Debug\train.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\train\train\obj\Debug\train.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\train\train\obj\Debug\train.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\train\train\obj\Debug\train.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\train\train\obj\Debug\train.pdb

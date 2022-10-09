@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\Istudent4\Istudent4\bin\Debug\Istudent4.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\Istudent4\Istudent4\bin\Debug\Istudent4.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\Istudent4\Istudent4\bin\Debug\Istudent4.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\Istudent4\Istudent4\obj\Debug\Istudent4.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\Istudent4\Istudent4\obj\Debug\Istudent4.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\Istudent4\Istudent4\obj\Debug\Istudent4.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment5\Istudent4\Istudent4\obj\Debug\Istudent4.pdb
