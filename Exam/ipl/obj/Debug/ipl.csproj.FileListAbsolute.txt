@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\ipl\ipl\bin\Debug\ipl.exe.config
+C:\Users\ismaila\source\repos\ipl\ipl\bin\Debug\ipl.exe
+C:\Users\ismaila\source\repos\ipl\ipl\bin\Debug\ipl.pdb
+C:\Users\ismaila\source\repos\ipl\ipl\obj\Debug\ipl.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\ipl\ipl\obj\Debug\ipl.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\ipl\ipl\obj\Debug\ipl.exe
+C:\Users\ismaila\source\repos\ipl\ipl\obj\Debug\ipl.pdb
