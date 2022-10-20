@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\Assignment6\Products\Products\bin\Debug\Products.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\Assignment6\Products\Products\bin\Debug\Products.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment6\Products\Products\bin\Debug\Products.pdb
+C:\Users\ismaila\source\repos\Dontnet training\Assignment6\Products\Products\obj\Debug\Products.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment6\Products\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\Assignment6\Products\Products\obj\Debug\Products.exe
+C:\Users\ismaila\source\repos\Dontnet training\Assignment6\Products\Products\obj\Debug\Products.pdb

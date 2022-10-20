@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Stationary\Stationary\bin\Debug\Stationary.exe.config
+C:\Users\ismaila\source\repos\Stationary\Stationary\bin\Debug\Stationary.exe
+C:\Users\ismaila\source\repos\Stationary\Stationary\bin\Debug\Stationary.pdb
+C:\Users\ismaila\source\repos\Stationary\Stationary\obj\Debug\Stationary.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Stationary\Stationary\obj\Debug\Stationary.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Stationary\Stationary\obj\Debug\Stationary.exe
+C:\Users\ismaila\source\repos\Stationary\Stationary\obj\Debug\Stationary.pdb
