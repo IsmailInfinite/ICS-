@@ -1,0 +1,7 @@
+C:\Users\ismaila\source\repos\Dontnet training\CaseStudy#6\StudyPlan\StudyPlan\bin\Debug\StudyPlan.exe.config
+C:\Users\ismaila\source\repos\Dontnet training\CaseStudy#6\StudyPlan\StudyPlan\bin\Debug\StudyPlan.exe
+C:\Users\ismaila\source\repos\Dontnet training\CaseStudy#6\StudyPlan\StudyPlan\bin\Debug\StudyPlan.pdb
+C:\Users\ismaila\source\repos\Dontnet training\CaseStudy#6\StudyPlan\StudyPlan\obj\Debug\StudyPlan.csproj.AssemblyReference.cache
+C:\Users\ismaila\source\repos\Dontnet training\CaseStudy#6\StudyPlan\StudyPlan\obj\Debug\StudyPlan.csproj.CoreCompileInputs.cache
+C:\Users\ismaila\source\repos\Dontnet training\CaseStudy#6\StudyPlan\StudyPlan\obj\Debug\StudyPlan.exe
+C:\Users\ismaila\source\repos\Dontnet training\CaseStudy#6\StudyPlan\StudyPlan\obj\Debug\StudyPlan.pdb
